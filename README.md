@@ -12,12 +12,12 @@
 
 > Here are some examples with different runing epoch numbers. We first show the result at epoch 0.
 
-![img_epoch0_joint.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch0_joint.pdf)
-![img_epoch0_scatter_train.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch0_scatter_train.pdf)
-![img_epoch0_scatter_val.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch0_scatter_val.pdf)
+![img_epoch0_joint.png](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch0_joint.png)
+![img_epoch0_scatter_train.png](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch0_scatter_train.png)
+![img_epoch0_scatter_val.png](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch0_scatter_val.png)
 
 > Then we show the result at epoch 34.
 
-![img_epoch34_joint.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch34_joint.pdf)
-![img_epoch34_scatter_train.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch34_scatter_train.pdf)
-![img_epoch34_val.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch34_val.pdf)
+![img_epoch34_joint.png](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch34_joint.png)
+![img_epoch34_scatter_train.png](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch34_scatter_train.png)
+![img_epoch34_scatter_val.png](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch34_scatter_val.png)
