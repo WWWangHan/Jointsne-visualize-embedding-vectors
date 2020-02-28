@@ -6,18 +6,18 @@
 
 > Just using `python src/visualizing.py` to run this program. A few minutes latter, you can see some outputs:
 
-![img_output.png]('readme_img/img_output.png')
+![img_output.png](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_output.png)
 
 ### results
 
 > Here are some examples with different runing epoch numbers. We first show the result at epoch 0.
 
-![img_epoch0_joint.pdf]('')
-![img_epoch0_scatter_train.pdf]('')
-![img_epoch0_scatter_val.pdf]('')
+![img_epoch0_joint.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch0_joint.pdf)
+![img_epoch0_scatter_train.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch0_scatter_train.pdf)
+![img_epoch0_scatter_val.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch0_scatter_val.pdf)
 
 > Then we show the result at epoch 34.
 
-![img_epoch34_joint.pdf]('')
-![img_epoch34_scatter_train.pdf]('')
-![img_epoch34_val.pdf]('')
+![img_epoch34_joint.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch34_joint.pdf)
+![img_epoch34_scatter_train.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch34_scatter_train.pdf)
+![img_epoch34_val.pdf](https://github.com/WWWangHan/Jointsne-visualize-embedding-vectors/blob/master/readme_img/img_epoch34_val.pdf)
